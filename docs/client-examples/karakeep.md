@@ -13,7 +13,7 @@ OAUTH_WELLKNOWN_URL=https://<your-pocket-id-subdomain>.<your-domain>/.well-known
 OAUTH_CLIENT_SECRET=<client secret from the created OIDC client>
 OAUTH_CLIENT_ID=<client id from the created OIDC client>
 OAUTH_PROVIDER_NAME=Pocket-ID
-NEXTAUTH_URL=https:///<your-karakeep-subdomain>.<your-domain>
+NEXTAUTH_URL=https://<your-karakeep-subdomain>.<your-domain>
 
 ```
 
